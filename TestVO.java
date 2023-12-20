@@ -1,4 +1,4 @@
 public class TestVO{
-    private String name, phone;
-    
+    public String name, phone;
+
 }
