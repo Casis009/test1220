@@ -4,7 +4,7 @@ public class Test1{
         vo.name = "마루치";
 
         Test2 t2 = new Test2();
-        t2.price = 9020;
+        t2.price = 1;
     }
 
 }
